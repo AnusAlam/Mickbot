@@ -9,19 +9,6 @@ client = genai.Client(api_key=API_KEY)
 
 instructions = 'You name is "Mick", a connection to a google gemini, made by a computer engineering student "Anas". Be short and precise in your answer,Now, Answer this question:'
 
-x = ["Primary functions online. Awaiting instructions, sir",
-     "All systems go. Ready, sir",
-     "Systems nominal. Ready for your command, sir",
-     "Initialization complete. Ready.",
-     "Ready when you are, sir.",
-     "Boot successful. Ready for instructions, sir.",
-     "Online and ready, sir.",
-     "At your service, sir.",
-     "Systems check passed. Ready for tasking, sir.",
-     "Ready to begin whenever you are, sir.",
-     "Ready for your direction, sir.",
-     "Prepared to follow your lead, sir."]
-
 
 def enter():
 
